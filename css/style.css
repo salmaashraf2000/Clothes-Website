@@ -1,0 +1,176 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    height: 2px;
+    background-color: #ffe6f3;  
+
+}
+.container
+{
+width: 1150px;
+    margin: auto ;
+}
+.header
+{
+    width: 100%;
+    height: 350px;
+    background-color: #ffe6f3;
+}
+.header .heading
+{
+    width: 50%;
+    float: left;
+    margin-top: 100px;
+    border-right: 1px solid black;
+}
+.header .heading h2
+{
+    width: 60%;
+    color: black;
+    line-height: 1.8;
+    font-size: 30px
+}
+.header .heading h2 span:hover
+{
+    color: hotpink;
+    cursor: pointer;
+}
+.header .n1{
+    width: 40%;
+    margin-left: 3%;
+    float: left;
+   margin-top: 100px;
+    color: black;
+    font-weight: bold;
+    
+}
+.header .n1 button{
+    border: 0;
+    background: aquamarine;
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 100px;
+    width:200px; 
+    outline: 0;
+    cursor: pointer;
+}
+ 
+.r1{
+    float: left;
+    width: 40%;
+    padding: 20px;
+}
+.c1{
+    float: right;
+    width: 40%;
+    padding: 20px;
+}
+.r2{
+    float: left;
+    width: 40%;
+    padding: 20px;
+}
+.c2{
+    float: right;
+    width: 40%;
+    padding: 20px;
+}
+.r3{
+    float: left;
+    width: 40%;
+    padding: 20px;
+}
+.c3{
+    float: right;
+    width: 40%;
+    padding: 20px;
+}
+.r4{
+    float: left;
+    width: 40%;
+    padding: 20px;
+}
+.c4{
+    float: right;
+    width: 40%;
+    padding: 20px;
+}
+.r5{
+    float: left;
+    width: 40%;
+    padding: 20px;
+}
+.c5{
+    float: right;
+    width: 40%;
+    padding: 20px;
+}
+
+
+.page .form{
+    width: 50%;
+    height: 450px;
+    border-right: 1px solid black;
+    margin-left: 20px;
+}
+.page .form h2{
+    font-family: Tahoma;
+}
+.page .form input[type=text]{
+    width: 170px;
+    height: 25px;
+    line-height: 1;
+    font-size: 15px;
+   
+}
+.page .form input[type=email]{
+    width: 170px;
+    height: 25px;
+    line-height: 1;
+    font-size: 15px;
+}
+.page .form input[type=number]{
+    width: 170px;
+    height: 25px;
+    line-height: 1;
+    font-size: 15px;
+}
+.page .form input[type=text]{
+    width: 170px;
+    height: 25px;
+    line-height: 1;
+    font-size: 15px;
+}
+.Home{
+    margin-left: 20px;
+    font-size: 30px;
+}
+.ord{
+    margin-left: 10px;
+    font-size: 30px;
+    position: absolute;
+    margin-left: 20px;
+    top: 0px;
+    left: 100px;
+        
+}
+.country .list{
+    width: 50%;
+    height: 450px;
+    position: absolute;
+    top: 0px;
+    left: 800px;
+    margin-left: 20px;
+    line-height: 30px;
+    margin-top: 40px;
+}
+.gmail .h2{
+    font-family: Tahoma;
+}
+.gmail{
+    margin-left: 100px;
+}
+
+
